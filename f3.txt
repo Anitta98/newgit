@@ -1,0 +1,12 @@
+Car
+Bike 
+Auto
+Truck
+Apple 
+Orange
+Grapes
+Mango
+Cat
+Dog
+Lion
+Tiger
